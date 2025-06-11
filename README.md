@@ -4,7 +4,7 @@
 ## Description
 -This is a Home Page of a Cleaning Service Company.
 <br>
--This is a template made using the HTML and CSS.
+-This is a template made using the HTML and CSS with the Bootstrap.
 <br>
 -In some section JavaScript is also used.
 <br>
