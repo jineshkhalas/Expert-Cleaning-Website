@@ -19,6 +19,5 @@
 -Whether you're fixing a bug, adding a feature, or improving the documentation — every contribution matters!
 
 ## Feedback
-If you have any feedback, suggestions, or find a bug, please open an issue or reach out directly.  
-<br>
-Your input is appreciated and helps improve the project.
+-If you have any feedback, suggestions, or find a bug, please open an issue or reach out directly.  
+-Your input is appreciated and helps improve the project.
