@@ -128,7 +128,6 @@ body {
     /* border-radius: 1rem; */
     text-decoration: none;
     display: block;
-    height: 100vh;
 }
 
 .dropdown-content a:hover {
